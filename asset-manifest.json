@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taskify/static/css/main.28a49d9c.css",
+    "main.js": "/taskify/static/js/main.b671b19b.js",
+    "index.html": "/taskify/index.html",
+    "main.28a49d9c.css.map": "/taskify/static/css/main.28a49d9c.css.map",
+    "main.b671b19b.js.map": "/taskify/static/js/main.b671b19b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28a49d9c.css",
+    "static/js/main.b671b19b.js"
+  ]
+}
